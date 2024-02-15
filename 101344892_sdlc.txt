@@ -1,1 +1,2 @@
-importantS of learning DevOps engineer in software development cycle
+Importants of learning DevOps engineer in software development cycle
+Develop a culture of collaboration and automation.
