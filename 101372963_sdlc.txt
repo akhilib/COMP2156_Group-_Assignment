@@ -3,6 +3,6 @@ lifecycle (SDLC), from code development to deployment and beyond.
 By learning DevOps principles, engineers can optimize workflows,
  reducing manual errors and accelerating time-to-market for software products.
 
- Enhancing Collaboration: DevOps emphasizes collaboration and communication between development, operations, and other stakeholders involved in the software development process. DevOps engineers facilitate this collaboration by bridging the gap between traditionally siloed teams, fostering a culture of shared responsibility and collaboration
+ Enhancing Collaboration: DevOps emphasizes collaboration and communication between development, operations, and other stakeholders involved in the software development process. DevOps engineers facilitate this collaboration by bridging the gap between traditionally siloed teams, fostering a culture of shared responsibility and collaboration.
 
  Improving Deployment Frequency and Reliability: DevOps practices such as continuous integration (CI) and continuous delivery (CD) enable teams to deploy software updates more frequently and reliably. DevOps engineers design and maintain CI/CD pipelines, automating the build, test, and deployment processes, thereby reducing the risk associated with manual deployments and ensuring a faster time-to-market.
