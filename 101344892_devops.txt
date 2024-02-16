@@ -1,3 +1,4 @@
 Course : COMP 2156
 This is a course in T141 program.
 It's in the fourth semester.
+COMP 2156 is a hands-on intro course designed for database professionals, data analysts, business analysts and managers.
