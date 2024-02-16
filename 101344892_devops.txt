@@ -5,3 +5,4 @@ COMP 2156 is a hands-on intro course designed for database professionals, data a
 DevOps is a popular software development method that combines development and operations. 
 This beginner-friendly course provides foundational knowledge about DevOps, continuous delivery, and continuous integration1. 
 It’s a great starting point for understanding the principles and practices.
+This hands-on course covers continuous integration and continuous deployment (CI/CD) using popular tools like Git, GitLab, Jenkins, and Laravel3.
