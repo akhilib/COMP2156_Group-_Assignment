@@ -7,6 +7,6 @@ high-quality software at a faster pace.
 
 In a DevOps course, students often learn about:
 
-Core Principles: Understanding the fundamental principles of DevOps, such as automation, continuous integration (CI), continuous delivery (CD), and infrastructure as code (IaC).
+Core Principles: Understanding the fundamental principles of DevOps, such as automation, continuous integration (CI), continuous delivery (CD), and infrastructure as code (IaC)
 
 Collaborative Tools: Learning about the tools and technologies used in DevOps environments, such as version control systems (e.g., Git), configuration management tools (e.g., Puppet, Ansible), containerization (e.g., Docker), and orchestration tools (e.g., Kubernetes).
