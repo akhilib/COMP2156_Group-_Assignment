@@ -1,2 +1,6 @@
-Akhil
-This file will contain information about COMP 2156 DevOps course.
+DevOps, short for Development and Operations, is a culture, set of practices, 
+and approach aimed at improving collaboration and 
+communication between software development and IT operations teams. 
+A DevOps course typically covers various aspects of this culture, 
+including tools, methodologies, and best practices to enable organizations to deliver 
+high-quality software at a faster pace.
