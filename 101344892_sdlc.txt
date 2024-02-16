@@ -7,3 +7,5 @@ The main goal of DevOps is to reduce software development time and speed up the 
 making operational processes more dynamic and predictable and maximizing their efficiency and security.
 According to EMA, companies that use the DevOps strategy are 11 times more likely to see double-digit annual revenue growth.
 DevOps can help companies improve customer satisfaction. Improving customer service results in increased customer loyalty, retention, improved sales, and increased ROI.
+DevOps increases the software quality and reduces the release time for updates making your product more competitive. 
+It also allows you to get timely feedback and make necessary improvements, according to the received data.
