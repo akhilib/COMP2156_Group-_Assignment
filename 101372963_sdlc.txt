@@ -1,6 +1,6 @@
 Streamlining Development Processes: DevOps practices aim to automate and streamline the software development 
 lifecycle (SDLC), from code development to deployment and beyond. 
 By learning DevOps principles, engineers can optimize workflows,
- reducing manual errors and accelerating time-to-market for software products.
+ reducing manual errors and accelerating time-to-market for software products
 
  Enhancing Collaboration: DevOps emphasizes collaboration and communication between development, operations, and other stakeholders involved in the software development process. DevOps engineers facilitate this collaboration by bridging the gap between traditionally siloed teams, fostering a culture of shared responsibility and collaboration.

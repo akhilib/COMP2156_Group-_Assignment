@@ -5,6 +5,6 @@ A DevOps course typically covers various aspects of this culture,
 including tools, methodologies, and best practices to enable organizations to deliver 
 high-quality software at a faster pace.
 
-In a DevOps course, students often learn about:
+In a DevOps course, students often learn about
 
 Core Principles: Understanding the fundamental principles of DevOps, such as automation, continuous integration (CI), continuous delivery (CD), and infrastructure as code (IaC).
