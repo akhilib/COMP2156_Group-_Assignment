@@ -1,3 +1,1 @@
-With respect to your mid-term and final exam, they will contain questions on
-concepts that you’ll be familiar with so long that you’ve been attending the labs,
-lectures and successfully completing your quizzes
+COMP 3104 will provide a hands-on experience through the implementation of tried, tested and true DevOps technologies.
