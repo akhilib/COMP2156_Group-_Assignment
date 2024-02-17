@@ -1,1 +1,1 @@
-Learning about Amazon Web Services, Ansible, Docker andTravis CI, you will become familiar with end-to-end deployment processes. 
+You will also have your very own build pipeline which will allow you to push changes to aweb app in the wild at the stroke of a key. 
