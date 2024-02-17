@@ -1,0 +1,11 @@
+Course : COMP 2156
+This is a course in T141 program.
+It's in the fourth semester.
+COMP 2156 is a hands-on intro course designed for database professionals, data analysts, business analysts and managers.
+DevOps is a popular software development method that combines development and operations. 
+This beginner-friendly course provides foundational knowledge about DevOps, continuous delivery, and continuous integration1. 
+It’s a great starting point for understanding the principles and practices.
+This hands-on course covers continuous integration and continuous deployment (CI/CD) using popular tools like Git, GitLab, Jenkins, and Laravel3.
+Master essential tools like Git, Jenkins, Docker, and Kubernetes. These are fundamental for efficient DevOps workflows3.
+DevOps is not just about tools; it’s also about fostering collaboration, streamlining processes, and embracing a culture of continuous improvement. 
+So, explore these courses, practice hands-on, and build a strong foundation for your DevOps journey! 
