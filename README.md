@@ -1,6 +1,6 @@
 Group 49.
 
-Group Members:Rani
-              Varsha
-              Sreekrishnan
+Group Members:Rani,
+              Varsha,
+              Sreekrishnan,
               Akhil
