@@ -1,1 +1,1 @@
-COMP 3104 will provide a hands-on experience through the implementation of tried, tested and true DevOps technologies
+Learning about Amazon Web Services, Ansible, Docker andTravis CI, you will become familiar with end-to-end deployment processes. 
