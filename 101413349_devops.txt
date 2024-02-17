@@ -3,3 +3,4 @@ We will also examine ways in which companies have either lost or saved fortunes 
 You will also have your very own build pipeline which will allow you to push changes to a web app in the wild at the stroke of a key.
 Using DevOps practices effectively will allow for a process predicated on ease to ship code to Production servers, apply hot-fixes, catch errors before they produce some sort of unintended behavior and keep transparency & communication heightened across all teams
 Looking at the software development lifecycle through the lens of a DevOps Engineer will produce a more informed and qualified developer.
+In this course students will learn the procedures, protocols and best practices that a DevOps engineer brings to a workplace environment to increase productivity. Analyze and evaluate various developer operation implementations available and implement hands-on work using industry standard toolkit.
