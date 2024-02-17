@@ -1,1 +1,2 @@
-You will also have your very own build pipeline which will allow you to push changes to aweb app in the wild at the stroke of a key. 
+Using DevOps practices effectively will allow for a process predicated on ease to ship code to Production servers, apply hot-fixes, catch errors before they produce some sort of unintended behavior and keep transparency & communication
+heightened across all teams
